@@ -4,7 +4,9 @@
     "Location": "Africa & Asia",
     "Details": "Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae.",
     "Image": "https://raw.githubusercontent.com/alperendnmez/f1/main/IilliIil.jpg",
-    "Population": 10000
+    "Population": 10000,
+      "Latitude": 36.204824,
+    "Longitude": 138.252924
     
   },
   {
@@ -12,7 +14,9 @@
     "Location": "Central & South America",
     "Details": "The capuchin monkeys are New World monkeys of the subfamily Cebinae. Prior to 2011, the subfamily contained only a single genus, Cebus.",
     "Image": "https://raw.githubusercontent.com/alperendnmez/f1/main/k1.jpg",
-    "Population": 23000
+    "Population": 23000,
+      "Latitude": 36.204824,
+    "Longitude": 138.252924
     
   },
   {
@@ -20,7 +24,9 @@
     "Location": "Central and East Africa",
     "Details": "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia",
     "Image": "https://raw.githubusercontent.com/alperendnmez/f1/main/k2.jpg",
-    "Population": 12000
+    "Population": 12000,
+      "Latitude": 36.204824,
+    "Longitude": 138.252924
    
   }
 ]
